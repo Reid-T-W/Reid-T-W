@@ -15,6 +15,10 @@ A rapid learner
 [What happens when you type https://www.google.com and press Enter](https://medium.com/@rediettadesse100/what-happens-when-you-type-https-www-google-com-and-press-enter-6ba0fc25924c)  
 </br>
 
+### Languages and Tools  
+ <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
+
 ### GitHub Stats⚡  
 <img align="left" alt="Reid-T-W's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Reid-T-W&show_icons=true&hide_border=true&count_private=true" />  
   

@@ -1,15 +1,17 @@
 ### Hi there, I'm Rediet Tadesse 👋
-A Backend developer  
+A Software Engineer focused on backend developement  
 A problem solver  
 A rapid learner  
 
+
 ### Connect with me 🔭  
-<!--   [<img align="left" alt="LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rediet-tadesse-43209013b/)    -->
-<!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />(https://www.linkedin.com/in/rediet-tadesse-43209013b/) -->
 <a href="https://www.linkedin.com/in/rediet-tadesse-43209013b/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
 </br>
+</br>
+
+### Blogs
 
 
 ⚡ GitHub Stats  

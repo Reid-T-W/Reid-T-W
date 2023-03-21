@@ -12,7 +12,9 @@ A rapid learner
 </br>
 
 ### Blogs
-
+[How I built ReConnect, a simple web app that connects missing people with their loved ones](https://medium.com/@rediettadesse100/how-i-built-reconnect-a-simple-web-app-that-connects-missing-people-with-their-loved-ones-541fda6031ba)  
+</br>
+</br>
 
 ⚡ GitHub Stats  
 <img align="left" alt="Reid-T-W's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Reid-T-W&show_icons=true&hide_border=true&count_private=true" />  

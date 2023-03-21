@@ -1,8 +1,8 @@
 ### Hi there, I'm Rediet Tadesse 👋
 ⚡ GitHub Stats
 
-### Connect with me 🔭 
-  [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/rediet-tadesse-43209013b] 
+<!-- ### Connect with me 🔭 
+  [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/rediet-tadesse-43209013b]  -->
 
 <img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Reid-T-W&show_icons=true&hide_border=true&count_private=true" />  
   

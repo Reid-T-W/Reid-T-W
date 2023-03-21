@@ -4,7 +4,8 @@ A problem solver
 A rapid learner  
 
 ### Connect with me 🔭  
-  [<img align="left" alt="LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rediet-tadesse-43209013b/)   
+<!--   [<img align="left" alt="LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rediet-tadesse-43209013b/)    -->
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/rediet-tadesse-43209013b/)
 </br>
 
 ⚡ GitHub Stats  

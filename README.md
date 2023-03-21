@@ -6,8 +6,9 @@
 <details>
   <summary>:zap: Recent Github Activities</summary>
   
-### Connect with me
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Connect with me 🔭 
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+
 <!--
 **Reid-T-W/Reid-T-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

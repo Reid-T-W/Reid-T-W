@@ -17,12 +17,14 @@ A rapid learner
 
 ### Languages and Tools  
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-
-
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+ <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 ### GitHub Stats⚡  
 <img align="left" alt="Reid-T-W's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Reid-T-W&show_icons=true&hide_border=true&count_private=true" />  
-  
-
 
 <!--
 **Reid-T-W/Reid-T-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

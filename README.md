@@ -23,6 +23,8 @@ A rapid learner
  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" />
  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+ 
+ 
 ### GitHub Stats⚡  
 <img align="left" alt="Reid-T-W's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Reid-T-W&show_icons=true&hide_border=true&count_private=true" />  
 

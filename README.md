@@ -27,6 +27,8 @@ A rapid learner
 ### GitHub Stats⚡  
 <img align="left" alt="Reid-T-W's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Reid-T-W&show_icons=true&hide_border=true&count_private=true" />  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reid-T-W)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Reid-T-W/Reid-T-W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

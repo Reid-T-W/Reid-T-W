@@ -11,7 +11,7 @@ A rapid learner
 </br>  
 
 ### Portfolio
-<a href="https://www.rediettadesse.tech"/>
+<a href="https://rediettadesse.tech"/>
   <p>Rediet's Portfolio</p>
 </a>
 

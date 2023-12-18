@@ -11,7 +11,7 @@ A rapid learner
 </br>  
 
 ### Portfolio
-<a href="https://rediettadesse.tech"/>
+<a href="https://portfolio-git-master-reid-t-w.vercel.app/"/>
   <p>Rediet's Portfolio</p>
 </a>
 
